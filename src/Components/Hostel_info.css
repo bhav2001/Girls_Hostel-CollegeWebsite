@@ -1,0 +1,21 @@
+.border1 {
+    background-color: #0b95dc;
+    height: 2px;
+    width: 35%;
+    float: left;
+}
+
+.border2 {
+    background-color: #900f0f;
+    height: 2px;
+    width: 65%;
+    float: left;
+}
+h1 ,h2, h3, h4{
+    font-family: Cambria;
+}
+p {
+    font-family: Cambria;
+    font-size: 18px;
+    color: #333;
+}
